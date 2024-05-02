@@ -1,0 +1,439 @@
+
+.navbar{
+    margin:0;
+    height: 90;
+    width:cover;
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+   
+}
+
+.border{
+    border: 2px solid transparent ;}
+.border:hover{
+    border: 2px solid black;
+}
+
+.border2{
+    border: 2px solid transparent ;}
+.border2:hover{
+    border: 2px solid grey;
+}
+
+.border3{
+    box-shadow: 2px solid transparent ;
+border:none;}
+.border3:hover{
+     box-shadow: 2px 2px 5px #fc894d;
+}
+
+.border4{
+    border: 2px solid grey ;
+}
+.border4:hover{
+    border: 2px solid black ;
+}
+.first-nav{
+   
+    height: 58px;
+    margin-top: 15px;
+    margin-left: 40px;
+    display: flex;
+    width: 643px;
+    border: 2px solid rgb(204, 201, 201);
+    border-radius: 10px;
+
+    justify-content: center;
+   
+    
+   
+   
+
+}
+.logo{
+   height: 72px;
+   width: 180px;
+    background-image: url(Screenshot\ \(304\).png);
+    background-size:cover;
+    margin-top: 10px;
+    
+}
+
+.nav-input{
+    width:180px;
+ height: 48px;
+ margin-right:80px;
+ margin-top:10px;
+ border:none;
+}
+
+.select{
+    height: 20px;
+    border: none;
+    margin-top: 25px;
+    width: 20px;
+    position: relative;
+    right:80px;
+    border-right: 2px solid grey ;
+    
+}
+.i{
+    margin-top: 26px;
+    height: 12px;
+    
+}
+
+.mag{
+    position: relative;
+    right:70px;
+    margin-top: 27px;
+    margin-right: 40px;
+}
+
+.in2{
+    width:180px;
+    height: 48px;
+    margin-top:10px;
+    margin-left: 20px;
+    border:none;
+    position: relative;
+    right: 110px;
+
+}
+
+.login{
+    margin-top: 32px;
+    font-size: 1.2rem;
+    color: #696969;
+   
+    height: 25px;
+    width: 100px;
+    text-align: center;
+}
+
+.signup{
+    margin-top: 32px;
+    font-size: 1.2rem;
+    color: #696969;
+    height: 25px;
+    width: 100px;
+    text-align: center;
+}
+a{
+    color: #696969;
+    text-decoration: none;  
+   
+}
+
+.navbar2{
+    margin:0;
+    height: 90;
+    width:cover;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+
+.dining{
+    display: flex;
+}
+
+.di{
+    width: 84px;
+    height: 84px;
+    background-image: url(diningc.png);
+}
+
+.delivery{
+    display: flex;
+}
+
+.de{
+    width: 80px;
+    height: 76px;
+    background-image: url(delivery.png);
+}
+
+.nightlife{
+    display: flex;
+
+}
+
+.ni{
+    width: 94px;
+    height: 81px;
+    background-image: url(nightlifec.png);}
+
+    .border1{
+        border: 2px solid transparent;
+        color:#696969;
+    }
+
+    .border1:hover{
+        border-bottom: 4px solid red;
+        color: red;
+    }
+
+    .navbar3{
+        color:#696969;
+        height: 100px;
+        display: flex;
+       flex-wrap: wrap;
+       justify-content: space-between;
+        align-items: center;
+        position: relative;
+        bottom:60px;
+        margin-right:400px ;
+        margin-left: 250px;
+        
+    }
+
+    .Cuisines{
+        border: none;
+        color: #696969;
+    }
+
+    .box1{
+       
+        width: 80px;
+        height: 28px;
+        text-align: center;
+        border-radius: 10px;
+        
+        
+    }
+
+    .box2{
+       
+        width: 100px;
+        height: 28px;
+        text-align: center;
+        border-radius: 10px;
+        position: relative;
+        right:160px;
+        left:-150px;
+        
+    }
+
+    .box3{
+        
+        width: 80px;
+        height: 28px;
+        text-align: center;
+        border-radius: 10px;
+        position: relative;
+        right:320px;
+        left:-300px;
+    }
+
+    .box4{
+       
+        width: 80px;
+        height: 30px;
+        text-align: center;
+        border-radius: 10px;
+        position: relative;
+        right:480px;
+        left:-440px;
+    }
+    
+
+    .border3{
+        border: 1px solid grey;
+    }
+
+    .border3:hover{
+        border: 1px solid rgb(36, 36, 36);
+    }
+
+    .content{
+        margin: 0px;
+        background-color: #faf8f8;
+        height: 400px;
+        position: relative;
+        bottom:90px;
+        align-items: center;
+    }
+
+    
+h1{
+    margin-left: 50px;
+    position: relative;
+    top:50px;
+    font-family: Helvetica, sans-serif;
+    color: rgb(113, 110, 110);
+}
+
+    .pi{
+        width:196px;
+        height: 193px;
+
+    }
+
+    .food{
+        display: flex;
+        justify-content: space-evenly;
+       margin-top: 90px;
+       height: 300px;
+       
+    }
+
+    .content2{
+       position: relative;
+       bottom:100px;
+        height: 300px;
+    }
+
+    .bh{
+        margin-left: 50px;
+        font-family: Helvetica, sans-serif;
+        color: rgb(113, 110, 110);
+    }
+
+    .brand{
+
+        display: flex;
+        justify-content: space-evenly;
+
+    }
+
+    footer{
+        width: cover;
+        height: 50px;
+        
+    }
+
+    .fdiv1{
+
+        background-color: #faf8f8;
+        width: cover;
+        height: 500px;
+        color: rgb(0, 0, 0);
+        
+        
+        
+    }
+
+    .f1{
+        height: 150px;
+        display: flex;
+    }
+
+    .flogo{
+        height: 46px;
+        width: 186px;
+         background-image: url(flogo.png);
+         background-size:cover;
+         position: relative;
+         top: 50px;
+         left: 150px;
+         
+     }
+
+     
+     
+     
+     #selectf{
+        background-color: #faf8f8;
+        width: 80px;
+        height: 30px;
+        color: black;
+        font-size: 1.1rem;
+        position: relative;
+        top: 60px;
+        left:1000px;
+        border: 1px solid black;
+        text-align: center;
+
+
+     }
+
+     #s2{
+        border: none;
+        height: 20px;
+        background-color: #faf8f8;
+     }
+
+     .ii{
+        position: relative;
+        top: 4px;
+        left: 2px;
+     }
+
+     .select2{
+        border: 1px solid black;
+        height: 30px;
+        color: black;
+        background-color: #faf8f8;
+        font-size: 1.2rem;
+        position: relative;
+        top: 60px;
+        left:1050px;
+     }
+
+    .f2{
+        color: black;
+        display: flex;
+    }
+
+    .text1{
+        color: black;
+        position: relative;
+        left:170px;
+    }
+
+
+    .text2{
+        color: black;
+        position: relative;
+        left:300px;
+    }
+
+    .text3{
+        color: black;
+        position: relative;
+        left:420px;
+    }
+
+    .text4{
+        color: black;
+        position: relative;
+        left:550px;
+    }
+
+    .text5{
+        color: black;
+        position: relative;
+        left:650px;
+    }
+
+    #f1{
+        position: relative;
+        right: 10px;
+        height: 50px;
+        width: 140px;
+        size: cover;
+        
+    }
+
+    #f2{
+        position: relative;
+        right:15px;
+        left:-6px;
+        height: 50px;
+        width: 140px;
+        size: cover;
+    }
+
+    .copy{
+        background-color: #faf8f8;
+        height: 90px;
+        color: black;
+    }
+
+    .last{
+        position: relative;
+        left:100px;
+    }
